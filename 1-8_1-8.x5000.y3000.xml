@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labeled img</folder>
+	<filename>1-8_1-8.x5000.y3000.jpg</filename>
+	<path>C:\Users\ABCD\Desktop\友達-SMT_and_FPC\New folder\Labeled img\1-8_1-8.x5000.y3000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Etching</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>446</ymin>
+			<xmax>413</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Etching</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>424</ymin>
+			<xmax>237</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>
