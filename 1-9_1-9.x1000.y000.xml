@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled2</folder>
+	<filename>1-9_1-9.x1000.y000.jpg</filename>
+	<path>C:\Users\Indira\Desktop\友達-SMT_and_FPC\New folder\labeled2\1-9_1-9.x1000.y000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Discolor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>705</xmin>
+			<ymin>61</ymin>
+			<xmax>849</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

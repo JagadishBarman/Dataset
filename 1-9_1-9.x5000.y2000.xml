@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Labeled img</folder>
+	<filename>1-9_1-9.x5000.y2000.jpg</filename>
+	<path>C:\Users\ABCD\Desktop\友達-SMT_and_FPC\New folder\Labeled img\1-9_1-9.x5000.y2000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>380</ymin>
+			<xmax>606</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pinhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>700</ymin>
+			<xmax>800</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pinhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>721</ymin>
+			<xmax>333</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>
