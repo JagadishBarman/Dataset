@@ -1,0 +1,38 @@
+<annotation>
+	<folder>labeled2</folder>
+	<filename>1-4_1-4.x8000.y4000.jpg</filename>
+	<path>C:\Users\Indira\Desktop\友達-SMT_and_FPC\New folder\labeled2\1-4_1-4.x8000.y4000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>999</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Discolor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>674</ymin>
+			<xmax>620</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Discolor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>685</ymin>
+			<xmax>827</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>
