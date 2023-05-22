@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labeled img</folder>
+	<filename>1-7_1-7.x1000.y1000.jpg</filename>
+	<path>C:\Users\ABCD\Desktop\友達-SMT_and_FPC\New folder\Labeled img\1-7_1-7.x1000.y1000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Etching</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>796</ymin>
+			<xmax>547</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pinhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>482</ymin>
+			<xmax>561</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

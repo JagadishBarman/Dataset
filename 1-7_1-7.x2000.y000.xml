@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled2</folder>
+	<filename>1-7_1-7.x2000.y000.jpg</filename>
+	<path>C:\Users\Indira\Desktop\友達-SMT_and_FPC\New folder\labeled2\1-7_1-7.x2000.y000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Etching</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>725</ymin>
+			<xmax>365</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>
