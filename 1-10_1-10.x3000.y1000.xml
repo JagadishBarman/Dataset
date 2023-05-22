@@ -1,0 +1,38 @@
+<annotation>
+	<folder>labeled2</folder>
+	<filename>1-10_1-10.x3000.y1000.jpg</filename>
+	<path>C:\Users\Indira\Desktop\友達-SMT_and_FPC\New folder\labeled2\1-10_1-10.x3000.y1000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pinhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>606</ymin>
+			<xmax>907</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Etching</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>517</ymin>
+			<xmax>843</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
